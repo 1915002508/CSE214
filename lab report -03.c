@@ -1,5 +1,5 @@
-//design a priority queue data structure //
-
+/*design a priority queue data structure 
+1915002508, Md Sazzad Hossen*/
 #include <stdio.h>
 #include <stdlib.h>
 
