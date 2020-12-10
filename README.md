@@ -14,5 +14,5 @@
 * Delete
 ## Mid Lab Report-03
 * Design a priority queue data structure 
-## Contest-01
+## Contest
 *double way circular linked list
