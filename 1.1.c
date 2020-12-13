@@ -1,8 +1,6 @@
-/*
-Problem Set -02
+/* ##Lab Report-01##
 1.Insert any value at tenth[10th] index of array.
 1915002508, Md Sazzad Hossen
-Data Structure Lab.
 */
 #include<stdio.h>
 int main()
