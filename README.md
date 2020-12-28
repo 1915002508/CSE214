@@ -22,3 +22,9 @@
 ## Lab Report-07
 * Linked list basic operation (single way(singly)link list)
 * create, empty,size,front,back, search,reverse,merge.
+## Lab Report-08
+* Linked list deleted operation (single way(singly)link list)
+* deleted back, deleted front,deleted value, deleted at, clear.
+## Lab Report-09
+* Linked list insert operation (single way(singly)link list)
+* insert back, insert front, insert at,insert before, insert after.
